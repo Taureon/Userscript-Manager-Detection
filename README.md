@@ -1,4 +1,4 @@
-# Userscript-Manager-Detection
+# Userscript Manager Detection
 A Code Snippet for detecting if the script is being ran in an Userscript Manager.
 
 **How to use:**
